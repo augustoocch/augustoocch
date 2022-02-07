@@ -33,16 +33,21 @@
 
 <a href= https://www.oracle.com/java/technologies/downloads/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" width="30" height="30" /><p>JAVA</p>
 
-<a href= https://git-scm.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" width="30" height="30" /><p>Git</p>
+<a href= https://www.mysql.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" width="30" height="30" /><p>MySQL</p>
 
 <a href= https://en.wikipedia.org/wiki/HTML><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" width="30" height="30"/><p>HTML</p>
 
 <a href= https://en.wikipedia.org/wiki/CSS><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" width="30" height="30"/><p>CSS</p>
 
+<a href= https://git-scm.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" width="30" height="30" /><p>Git</p>
+
+<a href= https://github.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="30" height="30" /><p>Github</p>
+
 <br />
 
 
 ### My Roadmap!!:
+- Q1-Q2 2022: Java - HTML - CSS (in process)
 - Q3-Q4 2022: Javascript - Node.Js
 - Q1-Q2 2023: Solidity
 - Q3-Q4 2023: Smart Contracts
