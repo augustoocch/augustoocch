@@ -9,7 +9,7 @@
 - 🇦🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿 From Argentina! Native spanish speaker, with a cambridge certification in english
 
 
-### Contact me!:
+#### Contact me!:
 
 <br>
 <div align= "center">
@@ -24,7 +24,7 @@
 
 
 
-### Tools and languajes I use:
+#### Tools and languajes I use:
 
 <br />
 <a href= https://code.visualstudio.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" width="30" height="30" /><p>Visual Studio Code</p>
