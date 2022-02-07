@@ -30,5 +30,5 @@
 <br />
 
 <br />
- <a href="https://github.com/augustoocch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=augustoocch&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="August's github stats" /></a> | <a href="https://github.com/augustoocch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoocch&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+ <a href="https://github.com/augustoocch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=augustoocch&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="August's github stats" /></a>  <a href="https://github.com/augustoocch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoocch&layout=compact&theme=tokyonight&hide_border=true" /></a> 
 <br />
