@@ -1,4 +1,4 @@
-### Welcome! Mi name es Augusto Occhiuzzi 👋
+### Welcome! My name is Augusto Occhiuzzi 👋
 #### Bienvenido! Mi nombre es Augusto Occhiuzzi 
 
 
