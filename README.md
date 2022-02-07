@@ -35,9 +35,9 @@
 
 <a href= https://git-scm.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" width="30" height="30" /><p>Git</p>
 
-<a href= https://en.wikipedia.org/wiki/HTML/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" width="30" height="30"/><p>HTML</p>
+<a href= https://en.wikipedia.org/wiki/HTML><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" width="30" height="30"/><p>HTML</p>
 
-<a href= https://en.wikipedia.org/wiki/CSS/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" width="30" height="30"/><p>CSS</p>
+<a href= https://en.wikipedia.org/wiki/CSS><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" width="30" height="30"/><p>CSS</p>
 
 <br />
 
