@@ -13,8 +13,8 @@
 
 ### Contact me!:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][https://www.linkedin.com/in/augusto-occhiuzzi-b06640160/]
+[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][https://www.instagram.com/augustoocchiuzzi/]
 <br />
 
 
