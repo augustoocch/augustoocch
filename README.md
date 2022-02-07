@@ -25,7 +25,7 @@
 ### Tools and languajes I use:
 
 <br />
-<img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="30" height="30" /> [Visual]!
+[<img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="30" height="30" />][Visual]!
 
 [Visual]: https://code.visualstudio.com
 
