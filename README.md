@@ -1,20 +1,18 @@
 ### Welcome! Mi name es Augusto Occhiuzzi 👋
-### Bienvenido! Mi nombre es Augusto Occhiuzzi 
+#### Bienvenido! Mi nombre es Augusto Occhiuzzi 
 
 
-- 💼 
-
--  Currently studying Java development!
+- 📖 Currently studying Java development and FrontEnd development!
 
 - ❤️ Blockchain enthusiast and technology lover! Wanting to perfom this habilities in 2022-2023.
 
-- Native spanish speaker, with a cambridge certification in english
+- 🇦🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Native spanish speaker, with a cambridge certification in english
 
 
 ### Contact me!:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /><a href="https://www.instagram.com/august.occh/">] 
-[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" /><a href=https://www.linkedin.com/in/augusto-occhiuzzi-b06640160/>]
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /><a href="https:/https://www.instagram.com/augustoocchiuzzi/"> 
+<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" /><a href=https://www.linkedin.com/in/augusto-occhiuzzi-b06640160/>
 <br />
 
 
