@@ -16,7 +16,7 @@
 
 <a href= https://www.instagram.com/augustoocchiuzzi/><img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />
 
-<a href= https://www.instagram.com/augustoocchiuzzi/><img align="left" alt="Facebook" width="22px" src="https://www.facebookbrand.com" />
+<a href= https://www.instagram.com/augustoocchiuzzi/><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 <br />
 
 
