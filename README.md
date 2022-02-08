@@ -4,7 +4,7 @@
 
 - 📖 Currently studying Java development and HTML-CSS!
 
-- ❤️ Blockchain enthusiast and technology lover! Wanting to perfom this habilities in 2022-2023.
+- ❤️ Blockchain enthusiast and technology lover! Wanting to perfom these habilities in 2022-2023.
 
 - 🇦🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿 From Argentina! Native spanish speaker, with a cambridge certification in english
 
