@@ -8,6 +8,7 @@
 
 - 🇦🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿 From Argentina! Native spanish speaker, with a cambridge certification in english
 
+---
 
 ### Contact me!:
 
@@ -21,8 +22,7 @@
 </div>
 <br />
 
-
-
+---
 
 ### Tools and languajes I use:
 
@@ -45,6 +45,7 @@
 
 <br />
 
+ ---
 
 ### My Roadmap!!:
 - Q1-Q2 2022: Java - HTML - CSS (in process)
