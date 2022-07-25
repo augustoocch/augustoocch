@@ -1,8 +1,9 @@
 ### Welcome! My name is Augusto Occhiuzzi 👋
 #### Bienvenido! Mi nombre es Augusto Occhiuzzi 
 
+- :computer: Java Full Stack developer
 
-- 📖 Currently studying Java development and HTML-CSS!
+- 📖 Currently studying Javascript!
 
 - ❤️ Blockchain enthusiast and technology lover! Wanting to perfom these habilities in 2022-2023.
 
@@ -51,9 +52,8 @@
  
 |Quarter|Course|
 |---|---|
-|Q1-Q2 2022|Java - HTML - CSS (in process)|
-|Q3-Q4 2022|Javascript - Node.Js|
-|Q1-Q2 2023|Solidity|
+|Q3-Q4 2022|Javascript - React|
+|Q1-Q2 2023|Mongo - Solidity|
 |Q3-Q4 2023|Smart Contracts|
 <br />
  <a href="https://github.com/augustoocch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=augustoocch&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="August's github stats" /></a> 
