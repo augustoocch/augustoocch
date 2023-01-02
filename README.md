@@ -5,7 +5,7 @@
 
 - 📖 Currently studying Javascript!
 
-- ❤️ Blockchain enthusiast and technology lover! Wanting to perfom these habilities in 2022-2023.
+- ❤️ Blockchain enthusiast and technology lover! Wanting to perfom these habilities in 2023-2024.
 
 - 🇦🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿 From Argentina! Native spanish speaker, with a cambridge certification in english
 
