@@ -28,7 +28,7 @@
 ### Tools and languajes I use:
 
 <br />
-<a href= https://www.oracle.com/java/technologies/downloads/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" width="30" height="30" /><p>JAVA</p>
+<a href= https://www.oracle.com/java/technologies/downloads/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" width="30" height="30" /><p>JAVA -Spring - Quarkus</p>
 
 <a href= https://www.javascript.com /><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" width="30" height="30" /><p>JS</p>
 
