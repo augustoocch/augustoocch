@@ -5,7 +5,7 @@
 
 - :computer: Docker and Kubernetes management
 
-- 📖 Currently studying Javascript!
+- 📖 Currently studying React!
 
 - ❤️ Blockchain enthusiast and technology lover! Wanting to perfom these habilities in 2023-2024.
 
