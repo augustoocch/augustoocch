@@ -32,7 +32,7 @@
 <br />
 <a href=https://spring.io/ ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" width="30" height="30" /><p>Spring - Springboot</p></a>
 
-<a href= https://es.quarkus.io/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quarkus.svg" width="30" height="30"/> <p>Quarkus Framework</p></a>
+<a href= https://es.quarkus.io/ ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quarkus.svg" width="30" height="30"/> <p>Quarkus Framework</p></a>
  
 <a href= https://dev.java/learn/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" width="30" height="30" /><p>Java</p>
 
