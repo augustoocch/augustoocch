@@ -30,29 +30,29 @@
 ### Tools and languajes I use:
 
 <br />
-<a href=https://spring.io/ ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" width="30" height="30" />Spring - Springboot</a>
-<br />
-<a href= https://es.quarkus.io/ ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quarkus.svg" width="30" height="30"/> Quarkus Framework</a>
-<br /> 
-<a href= https://dev.java/learn/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" width="30" height="30" /><p>Java</p>
+<a href=https://spring.io/ ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" width="30" height="30" /><p>Spring - Springboot</p></a>
 
-<a href= https://www.javascript.com /><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" width="30" height="30" /><p>JS</p>
+<a href= https://es.quarkus.io/ ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quarkus.svg" width="30" height="30"/> <p>Quarkus Framework</p></a>
 
-<a href=https://kubernetes.io/es/ ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" width="30" height="30" /><p>Kubernetes</p>
+<a href= https://dev.java/learn/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" width="30" height="30" /><p>Java</p></a>
 
-<a href= https://www.docker.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" width="30" height="30"/><p>Docker</p>
+<a href= https://www.javascript.com /><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" width="30" height="30" /><p>JS</p></a>
+
+<a href=https://kubernetes.io/es/ ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" width="30" height="30" /><p>Kubernetes</p></a>
+
+<a href= https://www.docker.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" width="30" height="30"/><p>Docker</p></a>
  
-<a href= https://www.rancher.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rancher.svg" width="30" height="30"/><p>Rancher</p>
+<a href= https://www.rancher.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rancher.svg" width="30" height="30"/><p>Rancher</p></a>
 
-<a href= https://www.mysql.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" width="30" height="30" /><p>MySQL</p>
+<a href= https://www.mysql.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" width="30" height="30" /><p>MySQL</p></a>
 
-<a href= https://en.wikipedia.org/wiki/HTML><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" width="30" height="30"/><p>HTML</p>
+<a href= https://en.wikipedia.org/wiki/HTML><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" width="30" height="30"/><p>HTML</p></a>
 
-<a href= https://en.wikipedia.org/wiki/CSS><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" width="30" height="30"/><p>CSS</p>
+<a href= https://en.wikipedia.org/wiki/CSS><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" width="30" height="30"/><p>CSS</p></a>
 
-<a href= https://git-scm.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" width="30" height="30" /><p>Git</p>
+<a href= https://git-scm.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" width="30" height="30" /><p>Git</p></a>
 
-<a href= https://github.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="30" height="30" /><p>Github</p>
+<a href= https://github.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="30" height="30" /><p>Github</p></a>
 
 <br />
 
