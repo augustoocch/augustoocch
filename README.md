@@ -28,13 +28,19 @@
 ### Tools and languajes I use:
 
 <br />
-<a href= https://www.oracle.com/java/technologies/downloads/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" width="30" height="30" /><p>JAVA -Spring - Quarkus</p>
+<a href=https://spring.io/ ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" width="30" height="30" /><p>Spring - Springboot</p>
+
+<a href= https://es.quarkus.io/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quarkus.svg" width="30" height="30" /><p>Quarkus Framework</p>
+ 
+<a href= https://dev.java/learn/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" width="30" height="30" /><p>Java</p>
 
 <a href= https://www.javascript.com /><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" width="30" height="30" /><p>JS</p>
 
-<a href= https://code.visualstudio.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" width="30" height="30" /><p>Visual Studio Code</p>
+<a href=https://kubernetes.io/es/ ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" width="30" height="30" /><p>Kubernetes</p>
 
-<a href= https://netbeans.apache.org/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachenetbeanside.svg" width="30" height="30"/><p>Apache NetBeans</p>
+<a href= https://www.docker.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" width="30" height="30"/><p>Docker</p>
+ 
+<a href= https://www.rancher.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rancher.svg" width="30" height="30"/><p>Rancher</p>
 
 <a href= https://www.mysql.com/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" width="30" height="30" /><p>MySQL</p>
 
