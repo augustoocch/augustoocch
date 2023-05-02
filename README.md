@@ -68,6 +68,6 @@
 
 # 📈 My Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoocch&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br/>
-![](https://github-readme-stats.vercel.app/api?username=augustoocch&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true)<br/> 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=augustoocch&theme=noctis_minimus&hide_border=true)<br/> -->
+![Augusto Occhiuzzi Github stats](https://github-readme-stats.vercel.app/api?username=augustoocch&show_icons=true&theme=radical)<br/>
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoocch&hide=html)](https://github.com/anuraghazra/github-readme-stats)
