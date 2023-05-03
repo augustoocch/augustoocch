@@ -67,6 +67,6 @@
 <br />
 
 # 📈 My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoocch&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoocch&show_icons=true&theme=nightowl)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoocch&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoocch&hide=html&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
