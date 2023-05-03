@@ -67,6 +67,6 @@
 <br />
 
 # 📈 My Stats
-[![Augusto Occhiuzzi Stats](https://github-readme-stats.vercel.app/api?username=augustoocch&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoocch&show_icons=true&theme=dark)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoocch&hide=html)](https://github.com/anuraghazra/github-readme-stats)
