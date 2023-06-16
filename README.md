@@ -1,9 +1,11 @@
 ### Welcome! My name is Augusto Occhiuzzi 👋
 #### Bienvenido! Mi nombre es Augusto Occhiuzzi 
 
-- :computer: Java Full Stack developer
+- :computer: Full Stack developer
 
 - :computer: Docker and Kubernetes management
+
+- :computer: JAVA and JS as base stack with different frameworks
 
 - 📖 Currently studying React!
 
