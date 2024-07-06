@@ -1,7 +1,7 @@
 ### Welcome! My name is Augusto Occhiuzzi 👋
 #### Bienvenido! Mi nombre es Augusto Occhiuzzi 
 
-- :computer: Full Stack developer
+- :computer: Full Stack developer, Specialized in backend technologies
 
 - :computer: Docker and Kubernetes management
 
