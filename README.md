@@ -7,7 +7,7 @@
 
 - :computer: JAVA and JS as base stack with different frameworks
 
-- 📖 Currently studying React!
+- 📖 Currently developing a whole software built in Node and React.
 
 - 🇦🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿 From Argentina! Native spanish speaker, with a cambridge certification in english
 
